@@ -1,0 +1,24 @@
+# Ignore build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]istPublic/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore the bin and obj directories
+bin/
+obj/
+
+# Ignore the packages folder
+packages/
+
+# Ignore the appsettings for sensitive data
+App_Data/
+
+# Ignore Visual Studio temporary files
+.vs/
